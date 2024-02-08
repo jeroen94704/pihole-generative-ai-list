@@ -1,0 +1,16 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Generative AI blocklist
+# Expires: 1 day
+# Homepage: https://github.com/jeroen94704/pihole-generative-ai-list
+# Help: https://github.com/jeroen94704/pihole-generative-ai-list/wiki/
+# License: MIT
+# Total number of network filters: 0
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+#  - reporting false positives
+#  - submitting pull-requests with new sites at https://github.com/jeroen94704/pihole-generative-ai-list/pulls
+#  - making a donation: https://ko-fi.com/jeroen94704
+# -------------------------------------[INFO]---------------------------------------
+#
+# Generative AI list
+# ------------------------------------[FILTERS]-------------------------------------
